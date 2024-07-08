@@ -1,4 +1,3 @@
-# DSA-with-JavaScript-
 # JavaScript DSA Mastery: My Learning Journey 
 
 Welcome to my comprehensive journey of mastering Data Structures and Algorithms (DSA) using JavaScript! 🚀  I'm documenting my progress, from foundational concepts to advanced techniques, while sharing code, explanations, and insights along the way.  Join me on this exciting adventure!
